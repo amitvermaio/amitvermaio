@@ -61,9 +61,16 @@ I am a 2nd year B.Tech student passionate about web development and problem-solv
 
 ## Connect with me:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitvns159@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-verma-678343281/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sonarltd/)
+<a href="mailto:amitvns159@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/amitvermaio">
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/sonarltd/">
+  <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+</a>
+
 
 ---
 
