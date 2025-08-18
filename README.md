@@ -61,13 +61,13 @@ I am a 2nd year B.Tech student passionate about web development and problem-solv
 
 ## Connect with me:
 
-<a href="mailto:amitvns159@gmail.com">
+<a target="_" href="mailto:amitvns159@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
 </a>
-<a href="https://www.linkedin.com/in/amitvermaio">
+<a target="_" href="https://www.linkedin.com/in/amitvermaio/">
   <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
 </a>
-<a href="https://www.instagram.com/sonarltd/">
+<a target="_" href="https://www.instagram.com/sonarltd/">
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
 </a>
 
