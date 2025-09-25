@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Amit Verma!
 
-I am a 2nd year B.Tech student passionate about web development and problem-solving. I love to explore new technologies and continuously improve my skills by working on challenging projects.
+I am a pre-final year B.Tech student passionate about web development and problem-solving. I love to explore new technologies and continuously improve my skills by working on challenging projects.
 
 ---
 
