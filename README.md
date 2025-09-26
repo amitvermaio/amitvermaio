@@ -36,6 +36,9 @@ I am a pre-final year B.Tech student passionate about web development and proble
   <a href="https://socket.io/" target="_blank">
     <img src="https://socket.io/images/logo.svg" alt="Socket.IO" width="40" height="40"/>
   </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
