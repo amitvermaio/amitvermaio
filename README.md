@@ -1,47 +1,67 @@
 <div align="center">
 
-# Hi there 👋, I'm **Amit Verma**
+# 👋 Hey there, I'm **Amit Verma**
 
-### ⚡ Pre-Final year B.Tech Student | Web Developer | Problem Solver  
+### ⚡ Pre-Final Year B.Tech Student | Web Developer | Backend Enthusiast | Problem Solver  
 
-I love building cool things on the web and exploring new technologies.  
-Always learning. Always improving. 🚀  
-
----
-
-## 🛠️ Technologies & Tools
-<img src="https://skillicons.dev/icons?i=python,java,js,tailwindcss,redux,react,nodejs,docker,linux,html,git,postman,vscode,expressjs,mongodb,c,mysql,postgres,rabbitmq,redis&perline=10" />
+✨ I love crafting elegant web experiences, solving meaningful problems,  
+and turning ideas into production-ready applications.  
+Always building. Always improving. 🚀  
 
 ---
 
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=amitvermaio&show_icons=true&theme=radical" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitvermaio&layout=compact&theme=radical" height="170" />
-
----
-
-## 🌱 Learning & Development
-- Currently exploring **advanced JavaScript frameworks** & **backend architecture**  
-- Improving **DSA** and building **real-world applications**  
+## 🚀 About Me
+🎯 Passionate about **Backend Development**, clean architecture & scalable systems  
+💡 Enjoy building impactful projects and learning modern technologies  
+📚 Love reading books & exploring how things work under the hood  
+🏆 Solving DSA problems & constantly sharpening logic  
 
 ---
 
-## 🌐 Connect With Me
-
-<a href="mailto:amitvns159@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/></a>
-<a href="https://www.linkedin.com/in/amitvermaio/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="48"/></a>
-<a href="https://www.instagram.com/sonarltd/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="48"/></a>
-
----
-
-## ⚡ Fun Facts
-- I enjoy solving puzzles and participating in coding contests  
-- I love reading books & travelling to new places  
+## 🛠️ Tech Stack & Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,redis,rabbitmq,postgres,mysql,html,css,tailwind,redux,docker,linux,git,postman,vscode&perline=10" />
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!  
-Feel free to explore my repositories and connect with me.**  
+## 🔥 My GitHub Performance  
+<p>
+<img src="https://streak-stats.demolab.com?user=amitvermaio&theme=radical" height="170" />
+</p>
+
+---
+
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitvermaio&theme=radical" />
+</p>
+
+---
+
+## 🌱 Currently Learning  
+- **Data Structures & Algorithms using JAVA**  
+- Writing **clean, scalable APIs**  
+- Working on **real-world MERN projects**    
+
+---
+
+## 🌐 Connect With Me  
+<p>
+<a href="mailto:amitvns159@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/></a>
+<a href="https://www.linkedin.com/in/amitvermaio/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45"/></a>
+<a href="https://www.instagram.com/sonarltd/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45"/></a>
+</p>
+
+---
+
+## ⚡ Fun Facts  
+- I enjoy brain-twisting puzzles and competitive coding  
+- Love travelling & exploring peaceful places  
+- Can spend hours fixing that *one perfect bug* 😆  
+
+---
+
+⭐ **Thanks for stopping by!  
+Explore my repos — and feel free to connect!**  
 
 </div>
