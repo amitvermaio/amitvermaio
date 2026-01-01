@@ -12,8 +12,7 @@ Always building. Always improving. 🚀
 
 ## 🚀 About Me
 🎯 Passionate about **Backend Development**, clean architecture & scalable systems  
-💡 Enjoy building impactful projects and learning modern technologies  
-📚 Love reading books & exploring how things work under the hood  
+💡 Enjoy building impactful projects and learning modern technologies   
 🏆 Solving DSA problems & constantly sharpening logic  
 
 ---
@@ -51,13 +50,6 @@ Always building. Always improving. 🚀
 <a href="https://www.linkedin.com/in/amitvermaio/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45"/></a>
 <a href="https://www.instagram.com/sonarltd/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45"/></a>
 </p>
-
----
-
-## ⚡ Fun Facts  
-- I enjoy brain-twisting puzzles and competitive coding  
-- Love travelling & exploring peaceful places  
-- Can spend hours fixing that *one perfect bug* 😆  
 
 ---
 
