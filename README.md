@@ -19,7 +19,7 @@ Always building. Always improving. 🚀
 
 ## 🛠️ Tech Stack & Tools  
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,redis,rabbitmq,postgres,mysql,html,css,tailwind,redux,docker,linux,git,postman,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,redis,rabbitmq,postgres,mysql,html,azure,tailwind,redux,docker,linux,git,postman,vscode&perline=10" />
 </p>
 
 ---
