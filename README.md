@@ -1,59 +1,90 @@
 <div align="center">
 
-# 👋 Hey there, I'm **Amit Verma**
+# Hey 👋 I'm Amit Verma  
 
-### ⚡ Pre-Final Year B.Tech Student | Web Developer | Backend Enthusiast | Problem Solver  
+### Full-Stack Developer | MERN Engineer | AI Explorer  
 
-✨ I love crafting elegant web experiences, solving meaningful problems,  
-and turning ideas into production-ready applications.  
-Always building. Always improving. 🚀  
+I build complete products —  
+from backend architecture to interactive frontend,  
+and now integrating AI into real-world applications.
 
----
-
-## 🚀 About Me
-🎯 Passionate about **Backend Development**, clean architecture & scalable systems  
-💡 Enjoy building impactful projects and learning modern technologies   
-🏆 Solving DSA problems & constantly sharpening logic  
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools  
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,redis,rabbitmq,postgres,mysql,html,tailwind,azure,redux,docker,linux,git,postman,vscode&perline=10" />
+## 🚀 What I Do
+
+🔹 Design scalable backend systems  
+🔹 Build responsive & modern frontend experiences  
+🔹 Structure clean databases (SQL & NoSQL)  
+🔹 Optimize APIs for performance  
+🔹 Integrate AI features into full-stack applications  
+🔹 Solve complex problems using DSA  
+
+I enjoy building systems that are not just functional —  
+but reliable, maintainable, and intelligent.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,postgres,mysql,redis,docker,linux,git,tailwind,redux,azure,postman,vscode,python&perline=9" />
 </p>
 
 ---
 
-## 🔥 My GitHub Performance  
-<p>
-<img src="https://streak-stats.demolab.com?user=amitvermaio&theme=radical" height="170" />
-</p>
+## 🤖 Exploring AI
+
+Currently working on:
+- AI-powered backend integrations  
+- LLM-based application features  
+- Automating workflows using intelligent systems  
+- Enhancing user experience with AI capabilities  
+
+I’m interested in how AI can augment full-stack systems — not just as a tool, but as a core product feature.
 
 ---
 
-<p>
+## 🧠 Engineering Mindset
+
+- Clean & modular architecture  
+- Performance-first thinking  
+- Scalable system design  
+- Continuous iteration & improvement  
+- Writing code that survives production  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=amitvermaio&theme=radical&hide_border=true" height="165" />
+</p>
+
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitvermaio&theme=radical" />
 </p>
 
 ---
 
-## 🌱 Currently Learning  
-- **Data Structures & Algorithms using JAVA**  
-- Writing **clean, scalable APIs**  
-- Working on **real-world MERN projects**    
+## 🌍 Let’s Build Something Meaningful
 
----
-
-## 🌐 Connect With Me  
-<p>
-<a href="mailto:amitvns159@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="45"/></a>
-<a href="https://www.linkedin.com/in/amitvermaio/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="45"/></a>
-<a href="https://www.instagram.com/sonarltd/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="45"/></a>
+<p align="center">
+<a href="mailto:amitvns159@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="38"/>
+</a>
+<a href="https://www.linkedin.com/in/amitvermaio/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="38"/>
+</a>
 </p>
 
 ---
 
-⭐ **Thanks for stopping by!  
-Explore my repos — and feel free to connect!**  
+<div align="center">
+
+⚡ Code the logic.  
+🎨 Design the experience.  
+🤖 Integrate intelligence.  
 
 </div>
