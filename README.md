@@ -46,15 +46,6 @@ I’m interested in how AI can augment full-stack systems — not just as a tool
 
 ---
 
-## 🧠 Engineering Mindset
-
-- Clean & modular architecture  
-- Performance-first thinking  
-- Scalable system design  
-- Continuous iteration & improvement  
-- Writing code that survives production  
-
----
 
 ## 📊 GitHub Activity
 
