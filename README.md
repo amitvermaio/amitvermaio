@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey 👋 I'm Amit Verma  
+# Hey 👋 I'm Amit Verma        
 
 ### Full-Stack Developer | MERN Engineer | AI Explorer  
 
