@@ -4,7 +4,7 @@
 
 # Amit Verma
 
-**Pre-Final Year B.Tech | Computer Science**
+**Final Year B.Tech | Computer Science**
 
 *Full-Stack Developer · MERN Stack · Spring Boot · AI Integration*
 
