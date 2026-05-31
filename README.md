@@ -32,7 +32,7 @@ Open to:        Internships · Full-Time Roles · Collaborations · Open Source
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mongodb,postgres,mysql,redis,docker,linux,git,tailwind,redux,azure,postman,python&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,rabbitmq,js,react,nodejs,express,mongodb,postgres,mysql,redis,docker,linux,git,tailwind,redux,azure,postman,python&perline=9" />
 </p>
 
 **Languages:** Java · JavaScript · Python  
