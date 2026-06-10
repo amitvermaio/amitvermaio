@@ -1,12 +1,9 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
 # Amit Verma
-
 **Final Year B.Tech | Computer Science**
-
-*Full-Stack Developer · MERN Stack · Spring Boot · AI Integration*
+*Full-Stack Developer · MERN Stack · AI Integration*
 
 [![Email](https://img.shields.io/badge/Gmail-amitvns159@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amitvns159@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amitvermaio-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitvermaio/)
@@ -18,12 +15,13 @@
 
 ## About Me
 
-I'm a pre-final year Computer Science student who builds full-stack applications — and cares deeply about *how* they're built. My core stack is MERN, and I also build backends with Spring Boot. I focus on writing code that's scalable, maintainable, and thoughtfully architected.
+I'm a final year Computer Science student who builds full-stack applications — and cares deeply about *how* they're built. My core stack is MERN. I focus on writing code that's scalable, maintainable, and thoughtfully architected.
 
 I work across the full stack: designing RESTful APIs, modeling databases, building backend services, and crafting responsive frontends. I'm also exploring system design and integrating AI into real-world applications.
+
 ```
 Current Focus:  Backend Architecture · System Design · AI-Powered Applications
-Stack:          MERN · Spring Boot · PostgreSQL · Redis · Docker
+Stack:          MERN · PostgreSQL · Redis · Docker
 Open to:        Internships · Full-Time Roles · Collaborations · Open Source
 ```
 
@@ -32,13 +30,13 @@ Open to:        Internships · Full-Time Roles · Collaborations · Open Source
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,rabbitmq,js,react,nodejs,express,mongodb,postgres,mysql,redis,docker,linux,git,tailwind,redux,azure,postman,python&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,mysql,redis,docker,linux,git,tailwind,redux,azure,postman,python,rabbitmq,java&perline=9" />
 </p>
 
-**Languages:** Java · JavaScript · Python  
-**Frontend:** React · Tailwind CSS · Redux  
-**Backend:** Node.js · Express.js · Spring Boot  
-**Databases:** MongoDB · PostgreSQL · MySQL · Redis  
+**Languages:** JavaScript · Python
+**Frontend:** React · Tailwind CSS · Redux
+**Backend:** Node.js · Express.js
+**Databases:** MongoDB · PostgreSQL · MySQL · Redis
 **Tools & Infra:** Docker · Git · Linux · Azure · Postman
 
 ---
@@ -67,7 +65,6 @@ Consistently practicing DSA to keep problem-solving sharp.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amitvermaio&theme=tokyonight&hide_border=true&border_radius=8" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitvermaio&theme=tokyonight" />
 </p>
